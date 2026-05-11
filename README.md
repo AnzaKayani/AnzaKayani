@@ -184,10 +184,8 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/user-name/AnzaKayani/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/AnzaKayani/AnzaKayani/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 # 💡 Quote
 
