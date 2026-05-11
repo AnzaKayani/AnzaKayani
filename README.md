@@ -22,7 +22,7 @@
 🧪 Passionate about **Computational Chemistry, Nanotechnology & Environmental Sustainability**  
 🤖 Skilled in **Machine Learning, Deep Learning, NLP & Scientific Data Analysis**  
 💡 Building AI-powered systems for scientific research and digital chemistry solutions  
-📚 Currently pursuing **B.Ed (1.5 Years)** at **Allama Iqbal Open University**  
+📚 Completed **B.Ed (1.5 Years)** at **Allama Iqbal Open University**  
 🌱 Exploring **AI-driven molecular prediction & chemical informatics**
 
 ---
