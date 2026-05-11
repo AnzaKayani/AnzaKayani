@@ -93,55 +93,15 @@
 
 ---
 
-## 🍷 Wine Quality Prediction System
 
-Machine learning web application that predicts wine quality using chemical parameters.
-
-### Algorithms Used
-- Random Forest
-- SVM
-- Logistic Regression
-- Decision Tree
-
-### Features
-✔️ Real-time Prediction  
-✔️ Interactive Dashboard  
-✔️ Data Preprocessing  
-✔️ Model Evaluation  
-
----
-
-## 🌊 Algae Bloom Prediction System
-
-AI-based environmental monitoring application for predicting algae bloom formation.
-
-### Focus Areas
-- Sustainability
-- Water Quality Analysis
-- Environmental AI
-- Predictive Modeling
-
----
-
-## 🧠 ChemClassifier AI
-
-Deep learning-powered NLP application for automatic classification of chemistry questions into specialized branches.
-
-### Built With
-- TensorFlow
-- CNN
-- NLP Pipelines
-- Streamlit
-
----
 
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnzaKayani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzaKayani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -205,15 +165,15 @@ Deep learning-powered NLP application for automatic classification of chemistry 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anza-kayani-b07374401/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anzakayani@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AnzaKayani">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -224,7 +184,7 @@ Deep learning-powered NLP application for automatic classification of chemistry 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/AnzaKayani/AnzaKayani/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/user-name/AnzaKayani/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
