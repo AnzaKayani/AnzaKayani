@@ -2,13 +2,15 @@
 
 # 👩‍🔬 Anza Kayani
 
+### A Realist with a Sprinkle of Magic ✨
+
 ### Gold Medalist Chemist • AI/ML Researcher • Computational, Nano & Organic Chemistry Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+in+Chemistry;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computational+Chemistry+Researcher;Building+AI-powered+Scientific+Solutions;Environmental+%26+Sustainability+Focused+Research" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AnzaKayani&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -222,7 +224,7 @@ Deep learning-powered NLP application for automatic classification of chemistry 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/AnzaKayani/AnzaKayani/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -231,14 +233,11 @@ Deep learning-powered NLP application for automatic classification of chemistry 
 
 <div align="center">
 
-### *"Combining Chemistry with Artificial Intelligence to create sustainable scientific solutions."*
+### *" Advancing sustainable scientific innovation through Chemistry and Artificial Intelligence."*
 
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnzaKayani&style=for-the-badge"/>
+</p>
